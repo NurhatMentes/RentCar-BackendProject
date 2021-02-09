@@ -1,0 +1,16 @@
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete

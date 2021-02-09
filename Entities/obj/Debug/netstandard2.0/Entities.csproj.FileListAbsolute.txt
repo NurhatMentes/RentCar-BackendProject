@@ -1,0 +1,12 @@
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
