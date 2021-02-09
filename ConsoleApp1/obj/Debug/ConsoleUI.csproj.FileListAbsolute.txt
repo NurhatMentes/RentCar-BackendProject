@@ -1,10 +1,5 @@
-D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
-D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\Business.dll
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\Core.dll
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\DataAccess.dll
@@ -92,3 +87,8 @@ D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\pt-BR\Microso
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ConsoleUI.exe.config
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ConsoleUI.exe
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\bin\Debug\ConsoleUI.pdb
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\obj\Debug\ConsoleUI.exe
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\ConsoleApp1\obj\Debug\ConsoleUI.pdb
