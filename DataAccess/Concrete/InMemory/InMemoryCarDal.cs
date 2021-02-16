@@ -56,7 +56,7 @@ namespace DataAccess.Concrete.InMemory
             _carList.Remove(_deleteToCar);
         }
 
-        public List<CarDetailDto> GetCarDetail()
+        public List<CarDetailDto> GetCarDetails(Expression<Func<Car, bool>> filter = null)
         {
             throw new NotImplementedException();
         }

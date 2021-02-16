@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yesil\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yesil\\.nuget\\packages"
+    ]
+  }
+}

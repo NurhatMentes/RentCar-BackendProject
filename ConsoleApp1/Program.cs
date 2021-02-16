@@ -14,12 +14,12 @@ namespace ReCapProject.ConsoleUI
     {
         static void Main(string[] args)
         {
-            // CarTest();
+             CarTest();
             // BrandTest();
             // ColorTest();
             // UserTest();
-            CustomerTest();
-            RentalTest();
+            // CustomerTest();
+            // RentalTest();
             Console.ReadLine();
         }
 
@@ -27,15 +27,15 @@ namespace ReCapProject.ConsoleUI
         {
             ColorManager colorManager = new ColorManager(new EfColorDal());
 
-            colorManager.GetColors();
+            colorManager.GetAll();
         }
 
         private static void BrandTest()
         {
             BrandManager brandManager = new BrandManager(new EfBrandDal());
-            foreach (var brand in brandManager.GetBrands())
+            foreach (var brand in brandManager.GetAll().Data)
             {
-                Console.WriteLine(brand.BrandName);
+                Console.WriteLine((brand.BrandName));
             }
         }
 
