@@ -13,5 +13,9 @@ namespace Core.Utilities
         public ErrorResult(bool success) : base(false)
         {
         }
+
+        public ErrorResult(string message) : base(false)
+        {
+        }
     }
 }

@@ -38,5 +38,10 @@ namespace Business.Constants
         public static string RentalReturned = "Kiraladığınız araç teslim edildi.";
 
         public static string MaintenanceTime = "Sistem bakımda";
+       
+        public static string CheckIfImageLimitExceded = "Bir Araba'ya ait en fazla 5 resim olabilir";
+        public static string ImageAdded = "Resim eklendi";
+        public static string ImageUpdated = "Resim güncellendi";
+        public static string ImageDeleted = "Resim silindi";
     }
 }
