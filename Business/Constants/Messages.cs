@@ -43,5 +43,13 @@ namespace Business.Constants
         public static string ImageAdded = "Resim eklendi";
         public static string ImageUpdated = "Resim güncellendi";
         public static string ImageDeleted = "Resim silindi";
+
+        public static string AuthorizationDenied = "Yetkiniz Yok";
+        public static string UserRegistered = "Kayıt Başarılı";
+        public static string UserNotFound = "Mail adresi bulunamadı";
+        public static string PasswordError = "Parola Hatası";
+        public static string SuccessfulLogin = "Giriş Başarılı";
+        public static string UserAlreadyExists = "Kullanıcı Mevcut";
+        public static string AccessTokenCreated = "Hesap başarılı oluştruldu";
     }
 }

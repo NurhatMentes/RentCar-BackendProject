@@ -71,3 +71,4 @@ D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Auto
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Nurhat\Kodlarım\KODLAMA.İO\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

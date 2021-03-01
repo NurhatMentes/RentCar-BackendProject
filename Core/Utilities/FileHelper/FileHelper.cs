@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using Core.Utilities.Results;
 using Microsoft.AspNetCore.Http;
 
 namespace Core.Utilities.FileHelper
