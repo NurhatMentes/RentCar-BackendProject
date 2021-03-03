@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using Core.DataAccess.EntityFramework;
 using Core.Entities.Concrete;
+using Core.Utilities;
 using DataAccess.Abstract;
 
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfUserDal:EfEntityRepositoryBase<User,RentA_CarContext>,IUserDal
+    public class EfUserDal : EfEntityRepositoryBase<User, RentA_CarContext>, IUserDal
     {
         public List<OperationClaim> GetClaims(User user)
         {
@@ -21,7 +22,6 @@ namespace DataAccess.Concrete.EntityFramework
                     where userOperationClaim.UserId == user.Id
                     select new OperationClaim { Id = operationClaim.Id, Name = operationClaim.Name };
                 return result.ToList();
-
             }
         }
     }

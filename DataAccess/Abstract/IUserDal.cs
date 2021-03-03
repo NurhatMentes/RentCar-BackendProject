@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Core.DataAccess;
 using Core.Entities.Concrete;
+using Core.Utilities;
 
 
 namespace DataAccess.Abstract

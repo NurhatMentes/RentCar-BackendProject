@@ -5,10 +5,11 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace Core.Utilities.Security.Encryption
 {
-    public class SigningCredentialsHelper
+    class SigningCredentialsHelper
     {
         public static SigningCredentials CreateSigningCredentials(SecurityKey securityKey)
         {
+            // AspNet' e hashleme için anahtar olarak bu securityKey kullan şifreleme olarak da güvenlik algoritmalarından kullan
             return new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha512Signature);
         }
     }

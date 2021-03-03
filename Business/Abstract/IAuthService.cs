@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Core.Entities.Concrete;
-using Core.Utilities;
+using Core.Utilities.Results;
 using Core.Utilities.Security.JWT;
 using Entities.DTOs;
 

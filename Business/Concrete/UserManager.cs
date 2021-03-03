@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Entities.Concrete;
 using Core.Utilities;
 using Core.Utilities.Results;
@@ -13,7 +15,7 @@ namespace Business.Concrete
 {
     public class UserManager : IUserService
     {
-        IUserDal _userDal;
+        private IUserDal _userDal;
 
         public UserManager(IUserDal userDal)
         {
@@ -22,11 +24,13 @@ namespace Business.Concrete
 
         public List<OperationClaim> GetClaims(User user)
         {
-            return _userDal.GetClaims(user);
+            _userDal.GetClaims(user);
+            return new List<OperationClaim>();
         }
 
+        [ValidationAspect(typeof(UserValidator))]
         public IResult Add(User user)
-        {
+        {   
             _userDal.Add(user);
             return new SuccessResult();
         }

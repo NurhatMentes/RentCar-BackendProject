@@ -18,7 +18,6 @@ using Core.Utilities.Security.JWT;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Http;
 using Microsoft.IdentityModel.Tokens;
 
 namespace WebAPI
@@ -49,7 +48,7 @@ namespace WebAPI
             //services.AddSingleton<IUserService, UserManager>();
             //services.AddSingleton<IUserDal, EfUserDal>();
 
-            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+   
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
