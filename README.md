@@ -1,5 +1,5 @@
 
-N-Katmanlı mimari yapısı ile hazırlanan, EntityFramework kullanılarak CRUD işlemlerinin yapıldığı, Wpf arayüzü ile çalışan, Araç Kiralama iş yerlerine yönelik örnek bir proje.
+N-Katmanlı mimari yapısı ile hazırlanan, EntityFramework kullanılarak CRUD işlemlerinin yapıldığı, Angular Fronted arayüz https://github.com/NurhatMentes/RentCar-Frontend.git ile çalışan, Araç Kiralama iş yerlerine yönelik örnek bir proje.
 
 
 <h3>Entities Layer</h3>
